@@ -1,2 +1,12 @@
-Step 1: Order Pizza
-Step 2:Wait for Pizza
+Step 1: Decide where to get pizza from
+Step 1A: Make sure Plaza is open
+Step 2:Decide what kind of Pizza to get
+Step 2A: Decide on backup option
+Step 3: Call Pizza shop
+Step 3A: can also place order online 
+Step 4: PLace order
+Step 5: wait for pizza
+Step 6: decide what to watch while eating pizza
+Step 6A:Make sure you have streaming platform to watch what you decide
+Step 7:pay for Pizza
+Step 8: eat Pizza
